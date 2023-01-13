@@ -1,0 +1,53 @@
+1. Create a string made of the first, middle and last character
+
+For example:
+
+str1 = "James"
+Output: "Jms"
+
+
+2. Write a program to create a new string made of the middle three characters of an input string.
+
+For example:
+
+Example 1:
+  str1 = "JhonDipPeta"
+  
+  Expected output: "Dip"
+  
+Example 2:
+  str1 = "JaSonAy"
+  
+  Expected output: "Son"
+  
+3. Given two strings, s1 and s2. Write a program to create a new string s3 by appending s2 in the middle of s1.
+
+Example:
+  s1 = "Ault"
+  s2 = "Kelly"
+  
+  Expected output : "AuKellylt"
+  
+  
+4. Given two strings, s1 and s2, write a program to return a new string made of s1 and s2’s first, middle, and last characters.
+
+Example:
+  s1 = "America"
+  s2 = "Japan"
+  
+  Expected output: "AJrpan"
+  
+5. Write a program that convert a alphabet letter to binary string using ASCII table (http://sticksandstones.kstrom.com/appen.html)
+
+Example 1:
+  letter = "A"
+  
+  Expected output: "01000001"
+  
+Example 2:
+  letter = "a"
+  
+  Expected output: "01100001"
+  
+  
+  
