@@ -48,6 +48,37 @@ Example 2:
   letter = "a"
   
   Expected output: "01100001"
-  
+
+6. Remove empty strings from a list of strings
+
+Given:
+
+str_list = ["Emma", "Jon", "", "Kelly", None, "Eric", ""]
+
+Expected Output:
+
+Original list of sting
+
+['Emma', 'Jon', '', 'Kelly', None, 'Eric', '']
+
+After removing empty strings
+
+['Emma', 'Jon', 'Kelly', 'Eric']
+
+
+7. Given string contains a combination of the lower and upper case letters. Write a program to arrange the characters of a string so that all lowercase letters should come first.
+
+str1 = PyNaTive
+Expected out: yaivePNT
+
+8. Given an input string s1 and a letter ch, count occurrences of the letter within a string
+
+Given:
+
+str1 = "Apple" , ch = 'p'
+
+Expected Outcome:
+
+2
   
   
