@@ -30,7 +30,6 @@ def middel_3_char(str1):
     return str1[i-1:i+2]
 
 
-
 a = middel_3_char("JaSonAy")
 print(a)
 
