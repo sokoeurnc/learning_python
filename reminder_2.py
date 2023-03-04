@@ -23,3 +23,9 @@ while True:
     index = index + 1
     if index == len(arr_number):
         break
+
+
+
+url = "https://meet.google.com/wpz-bjsa-wzu?authuser=0&hl=en"
+a = url[:5]
+print(a)
